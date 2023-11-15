@@ -1,4 +1,5 @@
 # Hello, my name is Claudia
+![Static Badge](https://img.shields.io/badge/AiCore-Claudia-orange?labelColor=FFCC33&color=00CCFF) 
 
 ### About Me
 
