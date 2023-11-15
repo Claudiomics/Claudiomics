@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, my name is Claudia
 
-<!--
-**Claudiomics/Claudiomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+> knowledge = {"claudia" : ["biochemistry", "ultimate frisbee", "baking"]}
+> new_skills = [knowledge["claudia"].append("python") for claudia in knowledge]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:snake::cloud:I'm currently working on the Cloud Engineering pathway with AiCore, having never coded before in my life. 
+:dna::brain:I have a Masters in Biochemistry from University of Surrey and I specialised in learning and memory within my final year. 
+:writing_hand:I'm passionate about communicating science to the general public, and am working on my biochemistry blog ('OMICS') when I have spare time!
+
+### My first project with AiCore!
+
+[Hangman](https://github.com/Claudiomics/hangman.git)
