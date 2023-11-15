@@ -2,7 +2,7 @@
 
 ### About Me
 
-> knowledge = {"claudia" : ["biochemistry", "ultimate frisbee", "baking"]}
+> knowledge = {"claudia" : ["biochemistry", "ultimate frisbee", "baking"]} \n
 > new_skills = [knowledge["claudia"].append("python") for claudia in knowledge]
 
 :snake::cloud:I'm currently working on the Cloud Engineering pathway with AiCore, having never coded before in my life. 
