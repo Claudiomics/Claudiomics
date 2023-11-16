@@ -3,15 +3,22 @@
 
 ### About Me
 
-:snake: :cloud: I'm currently working on the Cloud Engineering pathway with AiCore, having never coded before in my life.
+>claudia = {
+    "biochemistry": ["mrna extraction" , "translatomics" , "cryostat sectioning" , "immunochemistry"],
+>
+>   "coding": [<--! content loading -->],
+>
+>   "hobbies": ["ultimate frisbee", "baking bread", "sauna", "art", "creative writing"]}
 
-> knowledge = {"claudia" : ["biochemistry", "ultimate frisbee", "baking"]}
-
-> new_skills = [knowledge["claudia"].append("python") for claudia in knowledge]
-
-:dna: :brain: I have a Masters in Biochemistry from University of Surrey and I specialised in optimising mRNA extraction techniques within learning and memory for my final year project.
+:dna: :brain: I have a Masters in Biochemistry from University of Surrey and I specialised in optimising cell-specific mRNA extraction techniques within a sub-set of cortical neurons to explore how different sleep states affect learning and memory.
 
 :writing_hand: I'm passionate about communicating science to the general public, and am working on my biochemistry blog ('OMICS') when I have spare time!
+
+:snake: :cloud: I'm currently working towards becoming a Cloud Engineer with AiCore. 
+
+> new_skills = ["python", "oop", "cli"]
+> 
+>[claudia["coding"].extend(new_skills) in claudia]
 
 ### My first project with AiCore!
 
