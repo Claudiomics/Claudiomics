@@ -16,7 +16,7 @@
 
 :snake: :cloud: I'm currently working towards becoming a Cloud Engineer with AiCore. 
 
-> new_skills = ["python", "oop", "cli"]
+> new_skills = ["python", "oop", "cli", "pandas"]
 > 
 >[claudia["coding"].extend(new_skills) in claudia]
 
