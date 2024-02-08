@@ -20,6 +20,7 @@
 > 
 >[claudia["azure"].extend(new_skills) in claudia]
 
-### My first project with AiCore!
+### My second project with AiCore:
 
 [Hangman](https://github.com/Claudiomics/hangman.git)
+[Multinational Retail Centralisation Project](https://github.com/Claudiomics/multinational-retail-data-centralisation-project.git)
