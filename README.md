@@ -8,13 +8,13 @@
 >
 >   "coding": ["python", "oop", "cli", "pandas", "aws", "azure', "excel", "powerbi"],
 >
->   "hobbies": ["ultimate frisbee", "baking bread", "sauna", "art", "creative writing"]}
+>   "hobbies": ["ultimate frisbee", "stained glass", "woodcarving", "cycling", "creative writing"]}
 
 :dna: :brain: I have a Masters in Biochemistry from University of Surrey where I specialised in optimising cell-specific mRNA extraction techniques within a sub-set of cortical neurons to explore how different sleep states affect learning and memory.
 
 :snake: :cloud: I completed a Cloud Engineering intensive course with AiCore.
 
-:eagle: :computer: Currently training in Data and Analytics with Peregrine.
+:eagle: :computer: Completed training in Data and Analytics with Peregrine.
 
 ### My projects with Peregrine:
 
