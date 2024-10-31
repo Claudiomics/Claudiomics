@@ -6,7 +6,7 @@
 >claudia = {
     "biochemistry": ["mrna extraction" , "translatomics" , "cryostat sectioning" , "immunochemistry"],
 >
->   "coding": ["python", "oop", "cli", "pandas", "aws", "azure', "excel", "powerbi"],
+>   "tech": ["python", "oop", "cli", "git", "pandas", "aws", "azure', "excel", "powerbi", "machine learning"],
 >
 >   "hobbies": ["ultimate frisbee", "stained glass", "woodcarving", "cycling", "creative writing"]}
 
@@ -18,13 +18,18 @@
 
 ### My projects with Peregrine:
 
-[PowerBI Insecticide Resistance Management](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance)
+:mosquito:[PowerBI Insecticide Resistance Management](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance)
 
 ### My projects with AiCore:
 
-[Azure Database Migration](https://github.com/Claudiomics/azure-database-migration)
+:cloud:[Azure Database Migration](https://github.com/Claudiomics/azure-database-migration)
 
-[Multinational Retail Centralisation Project](https://github.com/Claudiomics/multinational-retail-data-centralisation-project.git)
+:snake:[Multinational Retail Centralisation Project](https://github.com/Claudiomics/multinational-retail-data-centralisation-project.git)
 
-[Hangman](https://github.com/Claudiomics/hangman.git)
+:snake:[Hangman](https://github.com/Claudiomics/hangman.git)
+
+### Personal Development Projects:
+
+:computer:[Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
+
 
