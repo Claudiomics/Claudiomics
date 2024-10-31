@@ -18,18 +18,18 @@
 
 ### My projects with Peregrine:
 
-:mosquito:[PowerBI Insecticide Resistance Management](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance)
+:mosquito::globe_with_meridians:[PowerBI Insecticide Resistance Management](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance)
 
 ### My projects with AiCore:
 
-:cloud:[Azure Database Migration](https://github.com/Claudiomics/azure-database-migration)
+:cloud::computer:[Azure Database Migration](https://github.com/Claudiomics/azure-database-migration)
 
-:snake:[Multinational Retail Centralisation Project](https://github.com/Claudiomics/multinational-retail-data-centralisation-project.git)
+:snake::moneybag:[Multinational Retail Centralisation Project](https://github.com/Claudiomics/multinational-retail-data-centralisation-project.git)
 
-:snake:[Hangman](https://github.com/Claudiomics/hangman.git)
+:snake::standing_woman:[Hangman](https://github.com/Claudiomics/hangman.git)
 
 ### Personal Development Projects:
 
-:computer:[Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
+:computer::brain:[Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
 
 
