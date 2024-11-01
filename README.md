@@ -32,6 +32,6 @@
 
 ### Personal Development Projects:
 
-:computer::brain:[Linerar and Non-Linear Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
+:computer::brain:[Linerar/Non-Linear Regression Modelling](https://github.com/Claudiomics/Linear_Regression_Modelling)
 
 
