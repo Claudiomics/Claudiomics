@@ -20,6 +20,8 @@
 
 :mosquito::globe_with_meridians:[PowerBI Insecticide Resistance Management](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance)
 
+:moneybag::computer:[Credit Card Application Logistic Regression Modelling](https://github.com/Claudiomics/credit_card_application_ML)
+
 ### My projects with AiCore:
 
 :cloud::computer:[Azure Database Migration](https://github.com/Claudiomics/azure-database-migration)
@@ -30,6 +32,6 @@
 
 ### Personal Development Projects:
 
-:computer::brain:[Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
+:computer::brain:[Linerar and Non-Linear Regression Modelling](https://github.com/Claudiomics/Regression_Modelling)
 
 
